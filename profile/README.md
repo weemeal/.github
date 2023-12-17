@@ -13,7 +13,7 @@ Aktuell arbeiten wir an einem Prototypen, der das einfache Anlegen von Rezepten 
 - **QR-Code-Integration:** Generiere QR-Codes für deine Rezepte. Scanne sie, um die Zutaten direkt in die Bring App zu importieren - für ein nahtloses Einkaufserlebnis!
 
 ### Technologie
-- **Backend:** Entwickelt mit robustem PHP, gewährleistet unser Backend eine zuverlässige und effiziente Datenverwaltung.
+- **Backend:** Aktuell stehen 2 Versionen eines Backends zur Verfügung. Zume einen ein mit PHP entwickeltes Backend zum selber Hosten. Zum anderen ein auf AWS Lambda, Cognito und API Gateway basierendem, welches mit dem Srtverless-Framework deployed wird.
 - **Frontend:** Unser ansprechendes Frontend basiert auf Angular, was eine intuitive und reibungslose Benutzererfahrung garantiert.
 
 
